@@ -26,6 +26,12 @@ Minha atuação integra conhecimentos de gestão empresarial, tecnologia da info
 
 ## Projetos
 
+### Projeto Integrador — Cadastro de Produtos e Fornecedores
+
+Projeto acadêmico da Faculdade Gran. A API permite cadastrar e consultar produtos e fornecedores e usa Node.js, Express e SQLite.
+
+[Ver o código no GitHub](https://github.com/paulomendesadm/Projeto-Disciplina-Projeto-Integrador)
+
 Este portfólio será atualizado com projetos práticos nas áreas de:
 
 1. Desenvolvimento de sistemas e aplicações
